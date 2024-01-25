@@ -119,6 +119,19 @@
 
 <br><br>
 
+## hyezuu's Role 👨‍🌾
+- **백엔드 팀장 & 응원단장💛** (백엔드 리드 및 프론트엔드와 소통)
+- **Restful API를 활용한 댓글 및 댓글 좋아요 기능**
+- **Restful API를 활용한 대댓글 기능**
+- **Restful API를 활용한 북마크 기능**
+- **연관 관계 매핑 및 편의 메서드 작성**
+- **공통 기능 구현(GlobalExceptionAdvice 등)**
+- **Advice, CustomAnnotation을 사용한 리소스 접근 검증**
+- **OpenWeather API를 활용한 5일 내의 날씨예보 API 호출**
+- **슬라이스 테스트에 Mockito 적용**
+- **Spring Rest Docs를 이용한 API 문서 작성**
+- **Apache Benchmarking tool을 활용한 성능 테스트**
+
 ---------
 
 ### **✔ branch 규칙**
