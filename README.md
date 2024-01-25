@@ -138,7 +138,7 @@
 - 모든 연관관계 매핑 `OneToOne`, `ManyToOne`, `OneToMany`
 - 관계의 주인 객체(부모객체)에 `cascade` 설정 (`CascadeType.REMOVE`,`CascadeType.PERSIST`)
 
-### 공통 기능 구현(GlobalExceptionAdvice 등)
+### 공통 기능 구현
 - **예외처리**
   - `GlobalExceptionAdvice`
   - `BusinessLogicException`
