@@ -23,7 +23,7 @@
 
 | 메인 : 검색 | 메인 : 비로그인 |
 | ----------------- | ----------------- |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="480" height="250"/> | ![쓰담_모달_로그인으로](https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72) |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="480" height="250"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="480" height="250"/> |
 
 | 모임글 등록 | 북마크 기능 |
 | ----------------- | ------------------ |
