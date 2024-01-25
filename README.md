@@ -11,6 +11,9 @@
 - 프로젝트 이름 : 쓰담 (SSUDAM)
 - 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
 - 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ ‼️현재 배포 중단중‼️
+- 백엔드 서비스 메뉴얼 : [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
+
+<br>
 
 <br><br>
 
@@ -58,7 +61,7 @@
 
 <br><br>
 
-## 👀 Team list
+## 👀 Team SSUDAM
 
 |**강혜주**|**김수안**|**최준하**|**조은희**|
 |:--:|:--:|:--:|:--:|
@@ -70,7 +73,7 @@
 
 |**배정현**|**이혜원**|**안민주**|**김윤한**|
 |:--:|:--:|:--:|:--:|
-|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="140px" height="140px"> |<img src="https://postfiles.pstatic.net/MjAyMjA2MjBfMjgy/MDAxNjU1NzEyNTM3OTc4.I4oQofjsZsjhPim9lSrhhlQn6yz91Rr9p1cICafjPt4g.sjqLPeofHTzVZeOfYtxrz0gw2SHRqqCIsTR1dcBhBfAg.PNG.0104849/2022-06-20_17;08;23.PNG?type=w773" width="150px" height="150px">|
+|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="150px" height="150px"> |<img src="https://github.com/hyezuu/ssudam/assets/147456219/69366580-6a15-4547-88d4-2548741a5281" width="150px" height="150px">|
 |FE(팀장)|FE|FE|FE|
 |[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
 
@@ -105,17 +108,6 @@
 ### 프론트엔드
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-
-<br>
-
-## 🧰 백엔드 아키텍처
-<img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
-
-<br>
-<br>
-
-## 📋 백엔드 서비스 메뉴얼
-[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
 <br>
 
