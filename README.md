@@ -117,49 +117,73 @@
 ## 📋 백엔드 서비스 메뉴얼
 [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
-<br><br>
-
-## hyezuu's Role 👨‍🌾
-- **백엔드 팀장 & 응원단장💛** (백엔드 리드 및 프론트엔드와 소통)
-- **Restful API를 활용한 댓글 및 댓글 좋아요 기능**
-- **Restful API를 활용한 대댓글 기능**
-- **Restful API를 활용한 북마크 기능**
-- **연관 관계 매핑 및 편의 메서드 작성**
-- **공통 기능 구현(GlobalExceptionAdvice 등)**
-- **Advice, CustomAnnotation을 사용한 리소스 접근 검증**
-- **OpenWeather API를 활용한 5일 내의 날씨예보 API 호출**
-- **슬라이스 테스트에 Mockito 적용**
-- **Spring Rest Docs를 이용한 API 문서 작성**
-- **Apache Benchmarking tool을 활용한 성능 테스트**
+<br>
 
 ---------
 
-### **✔ branch 규칙**
+# hyezuu's Role 👨‍🌾
 
-- `main` : 메인 브랜치  
-- `dev` : 개발 병합 브랜치  
-- `be` : 백엔드 브랜치  
-- `be+xx` : 백엔드 개인 브랜치  
-- `fe` : 프론트 브랜치
-- `fe+xx` : 프론트엔드 개인 브랜치  
 
-<br>
+### 백엔드 팀장 & 응원단장💛
+- 백엔드 리드 및 프론트엔드와의 원활한 소통 촉진
 
-### 🌟 커밋 컨벤션
-|이름|내용|
-|:--:|:--:|
-|✨ feat| 새로운 기능 추가|
-|🐛 fix| 버그 수정|
-|📝 docs| 문서 수정|
-|💡 comment| 필요한 주석 추가 및 변경|
-|🎨 style| 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우|
-|♻️ refactor| 코드 리팩토링|
-|🔧 update| 코드 업데이트 및 수정|
-|✅ test| 테스트 코드|
-|📦 chore| 빌드 업무 수정, 패키지 매니저 수정|
-|🔥 remove| 파일을 삭제하는 작업만 수행|
-|🚚 rename| 파일 혹은 폴더명을 수정하거나 옮김|
-|🚑 !HOTFIX| 급하게 치명적인 버그 고침|
-|💥 !BREAKING CHANGE| 커다란 API 변경|  
+### Restful API를 활용한 댓글 및 댓글 좋아요 기능
+- Comment & Like 도메인 작성
+- JPA 쿼리 메서드를 활용하여 특정 회원이 작성한 모든 댓글 및 모집글에 존재하는 모든 댓글 조회 가능
+- 최신순 조회 및 좋아요순 조회 구현
+
+### Restful API를 활용한 대댓글 기능
+- Reply 도메인 작성
+- 댓글 조회시 대댓글이 존재한다면, Dto 형태로 변환해서 함께 가져 올 수 있게 구현
+- Mapstruct의 `create()` 메서드 사용하여 코드 중복 제거
+
+### Restful API를 활용한 북마크 기능
+- 조인 엔티티를 사용해 멤버와 모임글 연결
+- JPA 쿼리 메서드 `existBy()`, `save()`, `delete()` 사용  
+
+### 연관 관계 매핑 및 편의 메서드 작성
+- 모든 연관관계 매핑 (OneToOne, ManyToOne, OneToMany)
+- 관계의 주인 객체(부모객체)에 cascade 설정(REMOVE, PERSIST)
+
+### 공통 기능 구현(GlobalExceptionAdvice 등)
+- 예외처리
+  - GlobalExceptionAdvice
+  - BusinessLogicException
+  - ExceptionCode
+  - ErrorResponse
+- Util
+  - CustomBeanUtils
+  - UriCreator 
+- Auditable
+  - 추상클래스
+  - createdAt, ModifieAt 필드 정의
+  - EntityListeners 사용
+- Dto
+  - SingleResponseDto
+  - MultiResponseDto
+  - PageInfo
+
+### Advice, CustomAnnotation을 사용한 리소스 접근 검증
+- MemberVerifyAdvice 클래스 구현
+- Interface 사용하여 중복로직 제거
+- CustomAnnotation 사용하여 코드 수정 최소화
+
+### OpenWeather API를 활용한 5일 내의 날씨예보 API 호출
+- RestTemplate 사용
+- Stream 사용하여 응답 필터링 
+
+### 슬라이스 테스트에 Mockito 적용
+- 구현한 모든 도메인 test case 작성 
+
+### Spring Rest Docs를 이용한 API 문서 작성
+- 구현한 모든 도메인 API 문서 작성
+
+### Apache Benchmarking tool을 활용한 성능 테스트
+- Gnuplot을 사용하여 결과 그래프 생성
+
+<br><br>
+
+---------
+
 
 
