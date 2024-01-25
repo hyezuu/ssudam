@@ -20,7 +20,6 @@
 | ----------------- | ------------------ |
 | ![user](https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3) | ![adminLogin](https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0) |
 
-
 | 메인 : 검색 | 메인 : 비로그인 |
 | ----------------- | ----------------- |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="480" height="250"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="480" height="250"/> |
@@ -52,7 +51,6 @@
 | 마이페이지 : 나의모임 | 마이페이지 : 나의 글/댓글 |
 | ----------------- | ------------------ |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/40b9a0ac-0e36-4456-8975-b57cdff6b4f8" width="480" height="250"/> | ![쓰담_마이페이지_나의글댓글](https://github.com/codestates-seb/abc02_002/assets/147456219/b0bb509d-9f65-4be3-87ee-ca94558d8487) |
-
 
 | 마이페이지 : 북마크 | 회원 탈퇴 |
 | ----------------- | ------------------ |
