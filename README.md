@@ -123,7 +123,6 @@
 
 # hyezuu's Role 👨‍🌾
 
-
 ### 백엔드 팀장 & 응원단장💛
 - 백엔드 리드 및 프론트엔드와의 소통
 
@@ -147,19 +146,19 @@
 - 관계의 주인 객체(부모객체)에 `cascade` 설정 (`CascadeType.REMOVE`,`CascadeType.PERSIST`)
 
 ### 공통 기능 구현(GlobalExceptionAdvice 등)
-- 예외처리
+- **예외처리**
   - `GlobalExceptionAdvice`
   - `BusinessLogicException`
   - `ExceptionCode`
   - `ErrorResponse`
-- Util
+- **Util**
   - `CustomBeanUtils`
   - `UriCreator` 
-- `Auditable`
+- **Auditable**
   - 추상클래스
   - `createdAt`, `ModifieAt` 필드 정의
   - `EntityListeners` 사용
-- Dto
+- **Dto**
   - `SingleResponseDto`
   - `MultiResponseDto`
   - `PageInfo`
@@ -177,12 +176,12 @@
 - 구현한 모든 도메인 `test case` 작성 
 
 ### Spring Rest Docs를 이용한 API 문서 작성
-- 구현한 모든 도메인 API 문서 작성
+- `Restdocs`의 api 스펙 정보 코드를 `test case`에 함께 작성
+- test 통과시 생성되는 `snippets` 으로 api문서 작성
 
 ### Apache Benchmarking tool을 활용한 성능 테스트
 - `Gnuplot`을 사용하여 결과 그래프 생성
 
-<br><br>
 
 ---------
 
