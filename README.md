@@ -68,9 +68,6 @@
 <img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
 
 <br>
-
-## 🧰 프론트 아키텍처
-
 <br>
 
 ## 📋 백엔드 서비스 메뉴얼
