@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://ifh.cc/g/foMwhL.jpg">
+  <img src=https://github.com/hyezuu/ssudam/assets/147456219/8e013df6-7e1c-45b3-9382-8f0a1b11c9be>
 </p>
+
 <h3 align='center'> 쓰담(SSUDAM)은 쓰레기 담기의 줄인말로 
 <br>
   지역 생태계 보호와 걷기를 통한 주민들의 건강 증진을 돕는 커뮤니티 사이트입니다. </h3>
