@@ -125,61 +125,62 @@
 
 
 ### 백엔드 팀장 & 응원단장💛
-- 백엔드 리드 및 프론트엔드와의 원활한 소통 촉진
+- 백엔드 리드 및 프론트엔드와의 소통
 
 ### Restful API를 활용한 댓글 및 댓글 좋아요 기능
-- Comment & Like 도메인 작성
+- `Comment` & `Like` 도메인 작성
 - JPA 쿼리 메서드를 활용하여 특정 회원이 작성한 모든 댓글 및 모집글에 존재하는 모든 댓글 조회 가능
 - 최신순 조회 및 좋아요순 조회 구현
 
 ### Restful API를 활용한 대댓글 기능
-- Reply 도메인 작성
+- `Reply` 도메인 작성
 - 댓글 조회시 대댓글이 존재한다면, Dto 형태로 변환해서 함께 가져 올 수 있게 구현
 - Mapstruct의 `create()` 메서드 사용하여 코드 중복 제거
 
 ### Restful API를 활용한 북마크 기능
+- `Bookmark` 도메인 작성
 - 조인 엔티티를 사용해 멤버와 모임글 연결
 - JPA 쿼리 메서드 `existBy()`, `save()`, `delete()` 사용  
 
 ### 연관 관계 매핑 및 편의 메서드 작성
-- 모든 연관관계 매핑 (OneToOne, ManyToOne, OneToMany)
-- 관계의 주인 객체(부모객체)에 cascade 설정(REMOVE, PERSIST)
+- 모든 연관관계 매핑 `OneToOne`, `ManyToOne`, `OneToMany`
+- 관계의 주인 객체(부모객체)에 `cascade` 설정 (`CascadeType.REMOVE`,`CascadeType.PERSIST`)
 
 ### 공통 기능 구현(GlobalExceptionAdvice 등)
 - 예외처리
-  - GlobalExceptionAdvice
-  - BusinessLogicException
-  - ExceptionCode
-  - ErrorResponse
+  - `GlobalExceptionAdvice`
+  - `BusinessLogicException`
+  - `ExceptionCode`
+  - `ErrorResponse`
 - Util
-  - CustomBeanUtils
-  - UriCreator 
-- Auditable
+  - `CustomBeanUtils`
+  - `UriCreator` 
+- `Auditable`
   - 추상클래스
-  - createdAt, ModifieAt 필드 정의
-  - EntityListeners 사용
+  - `createdAt`, `ModifieAt` 필드 정의
+  - `EntityListeners` 사용
 - Dto
-  - SingleResponseDto
-  - MultiResponseDto
-  - PageInfo
+  - `SingleResponseDto`
+  - `MultiResponseDto`
+  - `PageInfo`
 
 ### Advice, CustomAnnotation을 사용한 리소스 접근 검증
-- MemberVerifyAdvice 클래스 구현
-- Interface 사용하여 중복로직 제거
-- CustomAnnotation 사용하여 코드 수정 최소화
+- `MemberVerifyAdvice` 클래스 구현
+- `Interface` 사용하여 중복로직 제거
+- `CustomAnnotation` 사용하여 코드 수정 최소화
 
 ### OpenWeather API를 활용한 5일 내의 날씨예보 API 호출
-- RestTemplate 사용
-- Stream 사용하여 응답 필터링 
+- `RestTemplate` 사용
+- `Stream` 사용하여 응답 필터링 
 
 ### 슬라이스 테스트에 Mockito 적용
-- 구현한 모든 도메인 test case 작성 
+- 구현한 모든 도메인 `test case` 작성 
 
 ### Spring Rest Docs를 이용한 API 문서 작성
 - 구현한 모든 도메인 API 문서 작성
 
 ### Apache Benchmarking tool을 활용한 성능 테스트
-- Gnuplot을 사용하여 결과 그래프 생성
+- `Gnuplot`을 사용하여 결과 그래프 생성
 
 <br><br>
 
