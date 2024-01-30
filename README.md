@@ -34,62 +34,9 @@
 ## 🚩 개요
 - 프로젝트 이름 : 쓰담 (SSUDAM)
 - 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
-- 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ ‼️현재 배포 중단중‼️
 - 백엔드 서비스 메뉴얼 : [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
 ---------
-
-<br>
-
-## 🪄 Pages Preview
-<details>
-  <summary>자세히 보기</summary>
-  <div markdown="1">
-    
-| 메인 : 일반유저 | 메인 : 관리자 |
-| :---: | :---: |
-| <img src="https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0" width="370" height="200"/> |
-
-| 메인 : 검색 | 메인 : 비로그인 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="370" height="200"/> |
-
-| 모임글 등록 | 북마크 기능 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/03daf867-43ad-4d3d-97b7-1939f8d779dd" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1de7774d-d871-41f1-b614-3aad6cabc1ce" width="370" height="200"/> |
-
-| 모임글 수정 | 모임글 삭제 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/88f257c8-4720-4d81-91e0-dc953035eafa" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/0dd96fbf-3576-40b2-bcc7-dd7ccf8d28c3" width="370" height="200"/> |
-
-| 참여 기능 | 댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/cc36ec60-e84c-4af4-9f7c-91cb85699c3d" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/ff6af06f-2e82-4909-93de-946d5230f56c" width="370" height="200"/> |
-
-| 댓글 삭제 | 대댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1eb14cbc-7adb-4ea7-8404-e7f0185f1213" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/8e56e3f4-f719-4731-a59a-db9b4f3ea6f2" width="370" height="200"/> |
-
-| 후기 등록 | 후기 조회 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7398a83a-60b1-440f-91d2-f1a239fad495" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/d3f1dd7f-1fae-4b56-b6de-a9039019315b" width="370" height="200"/> |
-
-| 후기 수정 삭제 | 관리자 페이지 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/f0801cec-58ef-437d-b8cd-091d76696f16" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/9c9a63a0-e57e-448a-bc28-76847f324cf6" width="370" height="200"/> |
-
-| 마이페이지 : 나의모임 | 마이페이지 : 나의 글/댓글 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/40b9a0ac-0e36-4456-8975-b57cdff6b4f8" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b0bb509d-9f65-4be3-87ee-ca94558d8487" width="370" height="200"/> |
-
-| 마이페이지 : 북마크 | 회원 탈퇴 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7dda3383-2f5b-42f7-9274-031ab859841b" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b1a2c74b-7f78-4d94-a0c9-6d86531b2809" width="370" height="200"/> |
-
-</div>
-</details>
-
-<br><br>
 
 ## 👀 Team SSUDAM
 
@@ -109,37 +56,6 @@
 
 
 <br><br>
-
-## 🛠 기술 스택
-![image](https://github.com/codestates-seb/abc02_002/assets/118452650/60fc2529-6f19-4a69-932a-75c0549433e3)
-
-### 공통
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<br>
-    
-### 백엔드
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<br>
-
-### 프론트엔드
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-
-<br>
 
 ---------
 
@@ -205,21 +121,81 @@
 - `Gnuplot`을 사용하여 결과 그래프 생성
 
 
+<br>
+
+## 🪄 Pages Preview
+<details>
+  <summary>자세히 보기</summary>
+  <div markdown="1">
+
+| 북마크 기능 | 댓글 등록 |
+| :---: | :---: |
+|  <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1de7774d-d871-41f1-b614-3aad6cabc1ce" width="370" height="200"/>  | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/ff6af06f-2e82-4909-93de-946d5230f56c" width="370" height="200"/> |
+
+| 댓글 삭제 | 대댓글 등록 |
+| :---: | :---: |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1eb14cbc-7adb-4ea7-8404-e7f0185f1213" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/8e56e3f4-f719-4731-a59a-db9b4f3ea6f2" width="370" height="200"/> |
+
+| 마이페이지 : 나의모임 | 마이페이지 : 나의 글/댓글 |
+| :---: | :---: |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/40b9a0ac-0e36-4456-8975-b57cdff6b4f8" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b0bb509d-9f65-4be3-87ee-ca94558d8487" width="370" height="200"/> |
+
+| 마이페이지 : 북마크 | 회원 탈퇴 |
+| :---: | :---: |
+| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7dda3383-2f5b-42f7-9274-031ab859841b" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b1a2c74b-7f78-4d94-a0c9-6d86531b2809" width="370" height="200"/> |
+
+</div>
+</details>
+
+<br><br>
 ---------
+
+## 🛠 기술 스택
+![image](https://github.com/codestates-seb/abc02_002/assets/118452650/60fc2529-6f19-4a69-932a-75c0549433e3)
+
+### 공통
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<br>
+    
+### 백엔드
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
+
+### 프론트엔드
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Axios-181717?style=for-the-badge&logo=Axios&logoColor=white"><img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+
+<br>
+
+-------
+
 
 # 👀 FeedBack 
 
 ## **👯‍♀️ Team's Strengths** 
 1. **빠른 주제 변경**
-   - 프로젝트 시작 시점에 스스로의 학습 수준을 파악하고 주제를 빠르게 변경한 점.
-   - 학습 수준에 맞는 주제로 빠르게 대처하여 프로젝트를 수행한 것이 긍정적인 측면이었습니다.
+   - 부족한 시간 내에 완성할 수 있는 주제로 변경하여 프로젝트를 안정적으로 완성한 것이 긍정적인 측면이었습니다.
 
 ## **🙋‍♀️ BE's Strengths**
 1. **테스트 케이스 작성과 API 문서 자동화**
-   - 4개월 동안에도 API 문서를 자동화하기 위한 테스트 케이스를 작성하는 데 성공했습니다.
+   - API 문서를 자동화하기 위한 테스트 케이스를 작성하는 데 성공했습니다.
 
 2. **보안 취약점 테스트 수행**
-   - Spring Security를 사용하더라도 애플리케이션의 보안 취약점을 직접 테스트하여 안전성을 강조했습니다.
+   - 애플리케이션의 보안 취약점을 직접 테스트하여 안전성을 강조했습니다.
 
 3. **성능 테스트 수행**
    - Apache Benchmark 툴을 이용한 성능 테스트를 통해 애플리케이션의 성능 향상을 확인하고 개선했습니다.
@@ -228,38 +204,18 @@
    - 수강 기간 동안 배운 기본 지식을 활용하여 간결하고 가독성 있는 코드를 구현했습니다.
 
 ## **👩‍💻 Areas for Improvement**
-1. **비즈니스 로직에 대한 단위 테스트 부재**
-   - Controller 테스트는 어느 정도 작성되었지만 비즈니스 로직에 대한 단위 테스트가 부족합니다.
+1. **비즈니스 로직에 대한 단위 테스트 작성**
+   
+2. **API 문서에 요청헤더 추가 (Access Token 등)**
 
-2. **API 문서 누락**
-   - Spring Security와 관련된 JWT 부분이 API 문서에 빠져있습니다.
+3. **WireMock을 사용한 외부 Api 요청/ 응답 테스트 진행**
 
-3. **캐싱 활용 부족**
-   - Spring MVC의 캐싱 기능이나 JPA의 2차 캐시를 활용하여 성능을 향상시킬 수 있습니다.
+4. **Spring MVC의 캐싱 기능, JPA의 2차 캐시를 활용한 성능 향상**
+     
+5. **jpa.showsql 설정을 통한 로그확인 및 불필요한 쿼리 제거**
+     
+6. **간단한 매핑작업에 Java record를 활용하여 불변 객체 구현**
 
-4. **QueryDSL 및 검색 엔진 미적용**
-   - 검색 조건이 복잡한 경우에 효과적인 데이터 검색을 위해 QueryDSL이나 검색 엔진을 적용해보길 권장합니다.
-
-5. **검색 효율성 개선**
-   - 리액티브 프로그래밍을 이용하여 키워드 검색 시 불필요한 HTTP 요청을 줄이는 방안을 고려해보세요.
-
-6. **불필요한 쿼리 개선**
-   - N + 1 문제 등 애플리케이션 성능을 저하시킬 수 있는 부분에 대해 테스트하고 개선이 필요합니다.
-
-7. **코드 리팩토링**
-   - 읽기 불편한 코드나 중복 코드가 없는지 확인하고, 테스트 케이스를 작성하기 적합한 코드로 개선이 필요합니다.
-
-8. **Java record를 이용한 불변 객체 구현**
-   - 간단한 매핑의 경우 Java의 record를 활용하여 매핑을 진행해보세요.
-
-9. **빌더 패턴 적용**
-   - 무분별한 setter 사용 대신에 빌더 패턴을 이용해 객체를 생성할 수 있도록 개선이 필요합니다.
-
-10. **도메인 위주의 비즈니스 로직 구현**
-    - 엔티티 클래스가 비즈니스 로직을 가져가도록 구현하여 서비스 클래스를 개선할 필요가 있습니다.
-
-11. **CQRS 패턴 적용**
-    - CRUD 중 R을 별개의 읽기 전용 엔티티로 분리하여 성능을 향상시키고 유지 보수를 용이하게 하는 방법론을 적용해보세요.
 
 
 
