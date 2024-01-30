@@ -35,7 +35,7 @@
 - 프로젝트 이름 : 쓰담 (SSUDAM)
 - 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
 - 백엔드 서비스 메뉴얼 : [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
-- 팀 레포지토리 : [SSUDAM✨](https://github.com/codestates-seb/abc02_002)
+- 팀 Repo : [SSUDAM✨](https://github.com/codestates-seb/abc02_002)
 
 ---------
 
