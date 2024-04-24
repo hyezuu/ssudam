@@ -51,7 +51,7 @@
 
 |**배정현**|**이혜원**|**안민주**|**김윤한**|
 |:--:|:--:|:--:|:--:|
-|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="150px" height="150px"> |<img src="https://github.com/hyezuu/ssudam/assets/147456219/69366580-6a15-4547-88d4-2548741a5281" width="150px" height="150px">|
+|<img src="https://github.com/hyezuu/ssudam/assets/147456219/1423f5f9-d618-447c-a884-69b927cc39f0" width="150px" height="150px">|<img src="https://github.com/hyezuu/ssudam/assets/147456219/3d0538d1-d2bb-4b57-9a0c-80dbbf8aa58d" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="150px" height="150px"> |<img src="https://github.com/hyezuu/ssudam/assets/147456219/69366580-6a15-4547-88d4-2548741a5281" width="150px" height="150px">|
 |FE(팀장)|FE|FE|FE|
 |[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
 
